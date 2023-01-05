@@ -174,10 +174,10 @@
   .status {
     display: flex;
     justify-content: center;
-    gap: 20px;
   }
   .education {
     width: 511px;
+    margin-right: 71px;
   }
   .education h3 {
     font-weight: 700;
@@ -202,10 +202,10 @@
   }
   .education_description {
     margin-bottom: 30px;
+    border-bottom: 1px solid #D1D1D1;
   }
   .education_description h4 {
     font-weight: 700;
-  
     font-size: 25px;
   
     margin-bottom: 10px;
@@ -226,6 +226,7 @@
   }
   .experience_description {
     margin-bottom: 30px;
+    border-bottom: 1px solid #D1D1D1;
   }
   .experience_description h4 {
     font-weight: 700;
@@ -260,6 +261,7 @@
     padding-top: 130px;
   }
   .connect {
+  margin-right: 110px;
   }
   .connect h3 {
     font-weight: 700;
